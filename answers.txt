@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Q1: Why might we consider using Git?
 
 Answer: git is useful for working in teams, it has good version control and allows multiple people to branch the codebase and work on it in their local workspace
+=======
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: data science could be applied to business statistics/modleing, for example seeing what products are most profitable and how to shift their production to maximize that profet
+>>>>>>> q2
